@@ -1,10 +1,10 @@
-# 🤖 Software House Prompt Engineering Agent
+# Software House Prompt Engineering Agent
 
 A comprehensive AI agent designed specifically for software houses, powered by **LangChain** and **OpenAI**. This agent specializes in **prompt engineering**, technical documentation, client communication, and project management for AI/ML development projects.
 
-## 🚀 Features
+## Features
 
-### 📝 Prompt Engineering
+### Prompt Engineering
 - **Prompt Analysis**: Analyze prompts for effectiveness and clarity
 - **Prompt Optimization**: Optimize prompts based on identified issues
 - **A/B Testing**: Compare different prompts for effectiveness
@@ -12,7 +12,7 @@ A comprehensive AI agent designed specifically for software houses, powered by *
 - **Response Evaluation**: Evaluate prompt-response pairs
 - **Context Optimization**: Optimize prompts for context constraints
 
-### 🏢 Software House Specializations
+### Software House Specializations
 - **Technical Specifications**: Generate detailed technical specs
 - **Project Proposals**: Create comprehensive project proposals
 - **Client Communication**: Draft professional client communications
@@ -23,13 +23,13 @@ A comprehensive AI agent designed specifically for software houses, powered by *
 - **Status Reports**: Generate project status reports
 - **Interview Questions**: Create technical interview questions
 
-### 🔧 Development Tools
+### Development Tools
 - **Interactive Workflow**: Step-by-step guided development
 - **Prompt Refinement**: Iterative prompt improvement
 - **Template Library**: Pre-built templates for common tasks
 - **Export Capabilities**: Save outputs in multiple formats
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8+
@@ -39,8 +39,8 @@ A comprehensive AI agent designed specifically for software houses, powered by *
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/software-house-prompt-agent.git
-cd software-house-prompt-agent
+git clone https://github.com/shaiiikh/Software-House-Prompt-Engineering-Agent-using-LangChain.git
+cd Software-House-Prompt-Engineering-Agent-using-LangChain
 
 # Install dependencies
 pip install -r requirements.txt
@@ -56,7 +56,7 @@ Create a `.env` file in the project root:
 OPENAI_API_KEY=your_actual_openai_api_key_here
 ```
 
-## 🎯 Usage
+## Usage
 
 ### Interactive Mode
 ```bash
@@ -76,7 +76,7 @@ python simple_example.py
 python software_house_example.py
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 software-house-prompt-agent/
@@ -95,7 +95,7 @@ software-house-prompt-agent/
 └── README.md                    # This file
 ```
 
-## 🎨 Examples
+## Examples
 
 ### Optimize Prompts
 ```python
@@ -130,7 +130,7 @@ proposal = agent.generate_project_proposal(
 )
 ```
 
-## 💼 Use Cases for Software Houses
+## Use Cases for Software Houses
 
 ### Client Projects
 - Design AI solutions for client requirements
@@ -156,7 +156,7 @@ proposal = agent.generate_project_proposal(
 - Document best practices
 - Share knowledge across teams
 
-## 🔧 Configuration
+## Configuration
 
 ### OpenAI API Settings
 The agent uses OpenAI's GPT models. Make sure you have:
@@ -169,7 +169,7 @@ You can modify the model settings in `src/config.py`:
 OPENAI_MODEL_NAME = "gpt-4"  # or "gpt-3.5-turbo"
 ```
 
-## 📊 Output Files
+## Output Files
 
 The agent generates various output files:
 - `prompt_analysis_*.txt` - Prompt analysis reports
@@ -177,7 +177,7 @@ The agent generates various output files:
 - `project_proposal_*.txt` - Project proposals
 - `client_communication_*.txt` - Client communications
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -185,11 +185,11 @@ The agent generates various output files:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
+## Support
 
 If you encounter issues:
 1. Check the error messages for specific details
@@ -198,7 +198,7 @@ If you encounter issues:
 4. Check your OpenAI API key and credits
 5. Open an issue on GitHub
 
-## 🎯 Roadmap
+## Roadmap
 
 - [ ] Integration with more AI models
 - [ ] Advanced prompt optimization algorithms
@@ -206,7 +206,7 @@ If you encounter issues:
 - [ ] Integration with project management tools
 - [ ] Advanced analytics and insights
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - OpenAI for providing the GPT APIs
 - LangChain for the agent framework
@@ -214,6 +214,6 @@ If you encounter issues:
 
 ---
 
-**Happy Prompt Engineering! 🚀**
+**Happy Prompt Engineering!**
 
 Made with ❤️ for software houses and AI developers. 
