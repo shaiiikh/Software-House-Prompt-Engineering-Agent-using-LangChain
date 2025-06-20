@@ -1,0 +1,16 @@
+# Software House Prompt Engineering Agent - Environment Variables
+# Copy this file to .env and fill in your actual values
+
+# OpenAI Configuration
+OPENAI_API_KEY=your_actual_openai_api_key_here
+OPENAI_MODEL_NAME=gpt-4
+
+# LangChain Configuration (Optional)
+LANGCHAIN_TRACING_V2=false
+LANGCHAIN_ENDPOINT=
+LANGCHAIN_API_KEY=
+LANGCHAIN_PROJECT=software-house-prompt-agent
+
+# Application Configuration
+DEBUG=false
+LOG_LEVEL=INFO 
